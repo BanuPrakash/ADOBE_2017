@@ -1,0 +1,54 @@
+/* this is my custom CSS */
+.card {
+            background-color:#fff;
+           // border: 1px solid #d4d4d4;
+            height:120px;
+            margin: 20px;
+            position: relative;
+        }
+        .cardHeader {
+            background-color:#027FF4;
+            font-size:14pt;
+            color:white;
+            padding:5px;
+            width:100%;
+        }
+        .cardContainer {
+            width:85%;
+        }
+        .cardBody {
+            padding-left: 5px;
+        }
+        .cardBodyLeft {
+            margin-top: 2px;
+        }
+        .cardBodyRight {
+            margin-left: 20px;
+            margin-top: 2px;
+        }
+        .cardBodyContent {
+            width: 100px;
+        }
+        .cardImage {
+            height:50px;width:50px;margin-top:10px;
+        }
+        .close {
+            font-size:15pt;
+            opacity: 1.0;
+        }
+        .cardClose {
+            color: white;
+            font-weight:bold;
+            margin-right:5px;
+        }
+
+        .formDiv {
+            background-color:#eee; 
+            width: 300px;
+            height: 500px;
+        }
+
+        .edit {
+            color: blue;
+            background-color: white;
+        }
