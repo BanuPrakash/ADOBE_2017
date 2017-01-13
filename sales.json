@@ -1,0 +1,286 @@
+{category:"Beverages", product:"Sasquatch Ale", sales:179.2, quarter:1}
+{category:"Beverages", product:"Rhonbrau Klosterbier", sales:214.52, quarter:1}
+{category:"Beverages", product:"Guarana Fantastica", sales:529.2, quarter:1}
+{category:"Beverages", product:"Chartreuse verte", sales:590.4, quarter:1}
+{category:"Beverages", product:"Chai", sales:705.6, quarter:1}
+{category:"Beverages", product:"Lakkalikoori", sales:1141.92, quarter:1}
+{category:"Beverages", product:"Ipoh Coffee", sales:1398.4, quarter:1}
+{category:"Beverages", product:"Outback Lager", sales:1508.4, quarter:1}
+{category:"Beverages", product:"Steeleye Stout", sales:1742.4, quarter:1}
+{category:"Beverages", product:"Chang", sales:2720.8, quarter:1}
+{category:"Beverages", product:"Cote de Blaye", sales:25127.36, quarter:1}
+{category:"Beverages", product:"Chang", sales:228, quarter:2}
+{category:"Beverages", product:"Chartreuse verte", sales:360, quarter:2}
+{category:"Beverages", product:"Outback Lager", sales:384, quarter:2}
+{category:"Beverages", product:"Guarana Fantastica", sales:467.55, quarter:2}
+{category:"Beverages", product:"Laughing Lumberjack Lager", sales:518, quarter:2}
+{category:"Beverages", product:"Chai", sales:878.4, quarter:2}
+{category:"Beverages", product:"Steeleye Stout", sales:1008, quarter:2}
+{category:"Beverages", product:"Sasquatch Ale", sales:1037.4, quarter:2}
+{category:"Beverages", product:"Rhonbrau Klosterbier", sales:1508.92, quarter:2}
+{category:"Beverages", product:"Lakkalikoori", sales:1774.08, quarter:2}
+{category:"Beverages", product:"Ipoh Coffee", sales:4496.5, quarter:2}
+{category:"Beverages", product:"Cote de Blaye", sales:12806.1, quarter:2}
+{category:"Beverages", product:"Guarana Fantastica", sales:219.37, quarter:3}
+{category:"Beverages", product:"Laughing Lumberjack Lager", sales:350, quarter:3}
+{category:"Beverages", product:"Chartreuse verte", sales:1100.7, quarter:3}
+{category:"Beverages", product:"Chai", sales:1174.5, quarter:3}
+{category:"Beverages", product:"Ipoh Coffee", sales:1196, quarter:3}
+{category:"Beverages", product:"Rhonbrau Klosterbier", sales:1233.8, quarter:3}
+{category:"Beverages", product:"Outback Lager", sales:1252.5, quarter:3}
+{category:"Beverages", product:"Steeleye Stout", sales:1683, quarter:3}
+{category:"Beverages", product:"Chang", sales:2061.5, quarter:3}
+{category:"Beverages", product:"Lakkalikoori", sales:3261.6, quarter:3}
+{category:"Beverages", product:"Cote de Blaye", sales:7312.12, quarter:3}
+{category:"Beverages", product:"Laughing Lumberjack Lager", sales:42, quarter:4}
+{category:"Beverages", product:"Guarana Fantastica", sales:337.5, quarter:4}
+{category:"Beverages", product:"Sasquatch Ale", sales:750.4, quarter:4}
+{category:"Beverages", product:"Rhonbrau Klosterbier", sales:1233.8, quarter:4}
+{category:"Beverages", product:"Steeleye Stout", sales:1273.5, quarter:4}
+{category:"Beverages", product:"Cote de Blaye", sales:1317.5, quarter:4}
+{category:"Beverages", product:"Lakkalikoori", sales:1705.5, quarter:4}
+{category:"Beverages", product:"Chang", sales:2028.25, quarter:4}
+{category:"Beverages", product:"Chai", sales:2128.5, quarter:4}
+{category:"Beverages", product:"Chartreuse verte", sales:2424.6, quarter:4}
+{category:"Beverages", product:"Outback Lager", sales:2683.5, quarter:4}
+{category:"Beverages", product:"Ipoh Coffee", sales:3979, quarter:4}
+{category:"Condiments", product:"Chef Anton's Cajun Seasoning", sales:225.28, quarter:1}
+{category:"Condiments", product:"Aniseed Syrup", sales:544, quarter:1}
+{category:"Condiments", product:"Louisiana Hot Spiced Okra", sales:816, quarter:1}
+{category:"Condiments", product:"Original Frankfurter grune Sobe", sales:1112.8, quarter:1}
+{category:"Condiments", product:"Louisiana Fiery Hot Pepper Sauce", sales:1347.36, quarter:1}
+{category:"Condiments", product:"Gula Malacca", sales:1994.85, quarter:1}
+{category:"Condiments", product:"Sirop d'erable", sales:2679, quarter:1}
+{category:"Condiments", product:"Vegie-spread", sales:3202.87, quarter:1}
+{category:"Condiments", product:"Genen Shouyu", sales:176.7, quarter:2}
+{category:"Condiments", product:"Vegie-spread", sales:263.4, quarter:2}
+{category:"Condiments", product:"Aniseed Syrup", sales:600, quarter:2}
+{category:"Condiments", product:"Original Frankfurter grune Sobe", sales:1027.78, quarter:2}
+{category:"Condiments", product:"Louisiana Hot Spiced Okra", sales:1224, quarter:2}
+{category:"Condiments", product:"Northwoods Cranberry Sauce", sales:1300, quarter:2}
+{category:"Condiments", product:"Gula Malacca", sales:1753.62, quarter:2}
+{category:"Condiments", product:"Sirop d'erable", sales:1881, quarter:2}
+{category:"Condiments", product:"Louisiana Fiery Hot Pepper Sauce", sales:2150.77, quarter:2}
+{category:"Condiments", product:"Chef Anton's Cajun Seasoning", sales:2970, quarter:2}
+{category:"Condiments", product:"Aniseed Syrup", sales:140, quarter:3}
+{category:"Condiments", product:"Chef Anton's Gumbo Mix", sales:288.22, quarter:3}
+{category:"Condiments", product:"Vegie-spread", sales:842.88, quarter:3}
+{category:"Condiments", product:"Gula Malacca", sales:1093.09, quarter:3}
+{category:"Condiments", product:"Genen Shouyu", sales:1298.12, quarter:3}
+{category:"Condiments", product:"Chef Anton's Cajun Seasoning", sales:1337.6, quarter:3}
+{category:"Condiments", product:"Grandma's Boysenberry Spread", sales:1750, quarter:3}
+{category:"Condiments", product:"Louisiana Fiery Hot Pepper Sauce", sales:1975.54, quarter:3}
+{category:"Condiments", product:"Original Frankfurter grune Sobe", sales:2255.5, quarter:3}
+{category:"Condiments", product:"Sirop d'erable", sales:3021, quarter:3}
+{category:"Condiments", product:"Chef Anton's Gumbo Mix", sales:85.4, quarter:4}
+{category:"Condiments", product:"Aniseed Syrup", sales:440, quarter:4}
+{category:"Condiments", product:"Original Frankfurter grune Sobe", sales:510.9, quarter:4}
+{category:"Condiments", product:"Chef Anton's Cajun Seasoning", sales:682, quarter:4}
+{category:"Condiments", product:"Grandma's Boysenberry Spread", sales:750, quarter:4}
+{category:"Condiments", product:"Louisiana Hot Spiced Okra", sales:918, quarter:4}
+{category:"Condiments", product:"Sirop d'erable", sales:1510.5, quarter:4}
+{category:"Condiments", product:"Gula Malacca", sales:1701.87, quarter:4}
+{category:"Condiments", product:"Vegie-spread", sales:2590.1, quarter:4}
+{category:"Condiments", product:"Northwoods Cranberry Sauce", sales:2960, quarter:4}
+{category:"Condiments", product:"Louisiana Fiery Hot Pepper Sauce", sales:3857.41, quarter:4}
+{category:"Confections", product:"NuNuCa Nub-Nougat-Creme", sales:193.2, quarter:1}
+{category:"Confections", product:"Chocolade", sales:744.6, quarter:1}
+{category:"Confections", product:"Zaanse koeken", sales:817, quarter:1}
+{category:"Confections", product:"Valkoinen suklaa", sales:845, quarter:1}
+{category:"Confections", product:"Teatime Chocolate Biscuits", sales:943.89, quarter:1}
+{category:"Confections", product:"Scottish Longbreads", sales:1267.5, quarter:1}
+{category:"Confections", product:"Sir Rodney's Scones", sales:1418, quarter:1}
+{category:"Confections", product:"Maxilaku", sales:1605.6, quarter:1}
+{category:"Confections", product:"Pavlova", sales:1685.36, quarter:1}
+{category:"Confections", product:"Schoggi Schokolade", sales:1755, quarter:1}
+{category:"Confections", product:"Tarte au sucre", sales:4728, quarter:1}
+{category:"Confections", product:"Gumbar Gummibarchen", sales:5079.6, quarter:1}
+{category:"Confections", product:"Chocolade", sales:162.56, quarter:2}
+{category:"Confections", product:"Zaanse koeken", sales:285.95, quarter:2}
+{category:"Confections", product:"Teatime Chocolate Biscuits", sales:349.6, quarter:2}
+{category:"Confections", product:"Maxilaku", sales:620, quarter:2}
+{category:"Confections", product:"Sir Rodney's Scones", sales:756, quarter:2}
+{category:"Confections", product:"NuNuCa Nub-Nougat-Creme", sales:865.2, quarter:2}
+{category:"Confections", product:"Scottish Longbreads", sales:1062.5, quarter:2}
+{category:"Confections", product:"Gumbar Gummibarchen", sales:1249.2, quarter:2}
+{category:"Confections", product:"Pavlova", sales:2646.08, quarter:2}
+{category:"Confections", product:"Sir Rodney's Marmalade", sales:4252.5, quarter:2}
+{category:"Confections", product:"Tarte au sucre", sales:4547.92, quarter:2}
+{category:"Confections", product:"Schoggi Schokolade", sales:5268, quarter:2}
+{category:"Confections", product:"Chocolade", sales:68.85, quarter:3}
+{category:"Confections", product:"Valkoinen suklaa", sales:385.94, quarter:3}
+{category:"Confections", product:"Scottish Longbreads", sales:492.5, quarter:3}
+{category:"Confections", product:"Zaanse koeken", sales:668.8, quarter:3}
+{category:"Confections", product:"Maxilaku", sales:835, quarter:3}
+{category:"Confections", product:"Teatime Chocolate Biscuits", sales:841.8, quarter:3}
+{category:"Confections", product:"Sir Rodney's Marmalade", sales:1360.8, quarter:3}
+{category:"Confections", product:"Sir Rodney's Scones", sales:1733, quarter:3}
+{category:"Confections", product:"Pavlova", sales:1849.7, quarter:3}
+{category:"Confections", product:"Gumbar Gummibarchen", sales:2061.17, quarter:3}
+{category:"Confections", product:"Schoggi Schokolade", sales:2195, quarter:3}
+{category:"Confections", product:"Tarte au sucre", sales:5472.3, quarter:3}
+{category:"Confections", product:"Teatime Chocolate Biscuits", sales:204.7, quarter:4}
+{category:"Confections", product:"Chocolade", sales:306, quarter:4}
+{category:"Confections", product:"NuNuCa Nub-Nougat-Creme", sales:493.5, quarter:4}
+{category:"Confections", product:"Valkoinen suklaa", sales:942.5, quarter:4}
+{category:"Confections", product:"Pavlova", sales:999.01, quarter:4}
+{category:"Confections", product:"Zaanse koeken", sales:1159, quarter:4}
+{category:"Confections", product:"Sir Rodney's Scones", sales:1434, quarter:4}
+{category:"Confections", product:"Sir Rodney's Marmalade", sales:1701, quarter:4}
+{category:"Confections", product:"Schoggi Schokolade", sales:1756, quarter:4}
+{category:"Confections", product:"Scottish Longbreads", sales:1935, quarter:4}
+{category:"Confections", product:"Gumbar Gummibarchen", sales:2835.68, quarter:4}
+{category:"Confections", product:"Tarte au sucre", sales:6014.6, quarter:4}
+{category:"Dairy Products", product:"Geitost", sales:294, quarter:1}
+{category:"Dairy Products", product:"Queso Manchego La Pastora", sales:456, quarter:1}
+{category:"Dairy Products", product:"Gorgonzola Telino", sales:487, quarter:1}
+{category:"Dairy Products", product:"Queso Cabrales", sales:1357.44, quarter:1}
+{category:"Dairy Products", product:"Mozzarella di Giovanni", sales:1973.8, quarter:1}
+{category:"Dairy Products", product:"Gudbrandsdalsost", sales:2649.6, quarter:1}
+{category:"Dairy Products", product:"Camembert Pierrot", sales:3329.28, quarter:1}
+{category:"Dairy Products", product:"Flotemysost", sales:4454.8, quarter:1}
+{category:"Dairy Products", product:"Raclette Courdavault", sales:9116.8, quarter:1}
+{category:"Dairy Products", product:"Flotemysost", sales:174.15, quarter:2}
+{category:"Dairy Products", product:"Geitost", sales:242.5, quarter:2}
+{category:"Dairy Products", product:"Gudbrandsdalsost", sales:1267.2, quarter:2}
+{category:"Dairy Products", product:"Queso Manchego La Pastora", sales:1396.5, quarter:2}
+{category:"Dairy Products", product:"Mascarpone Fabioli", sales:2220.8, quarter:2}
+{category:"Dairy Products", product:"Gorgonzola Telino", sales:2993.12, quarter:2}
+{category:"Dairy Products", product:"Queso Cabrales", sales:3029.25, quarter:2}
+{category:"Dairy Products", product:"Camembert Pierrot", sales:3989.9, quarter:2}
+{category:"Dairy Products", product:"Mozzarella di Giovanni", sales:4488.2, quarter:2}
+{category:"Dairy Products", product:"Raclette Courdavault", sales:7452.5, quarter:2}
+{category:"Dairy Products", product:"Geitost", sales:99.5, quarter:3}
+{category:"Dairy Products", product:"Queso Cabrales", sales:504, quarter:3}
+{category:"Dairy Products", product:"Queso Manchego La Pastora", sales:1162.8, quarter:3}
+{category:"Dairy Products", product:"Gorgonzola Telino", sales:1458.75, quarter:3}
+{category:"Dairy Products", product:"Flotemysost", sales:2541.29, quarter:3}
+{category:"Dairy Products", product:"Mozzarella di Giovanni", sales:3027.6, quarter:3}
+{category:"Dairy Products", product:"Gudbrandsdalsost", sales:4473, quarter:3}
+{category:"Dairy Products", product:"Raclette Courdavault", sales:5087.5, quarter:3}
+{category:"Dairy Products", product:"Camembert Pierrot", sales:10273.1, quarter:3}
+{category:"Dairy Products", product:"Geitost", sales:150, quarter:4}
+{category:"Dairy Products", product:"Mascarpone Fabioli", sales:448, quarter:4}
+{category:"Dairy Products", product:"Queso Cabrales", sales:656.25, quarter:4}
+{category:"Dairy Products", product:"Mozzarella di Giovanni", sales:2349, quarter:4}
+{category:"Dairy Products", product:"Flotemysost", sales:2472.5, quarter:4}
+{category:"Dairy Products", product:"Gorgonzola Telino", sales:2681.87, quarter:4}
+{category:"Dairy Products", product:"Camembert Pierrot", sales:3060, quarter:4}
+{category:"Dairy Products", product:"Queso Manchego La Pastora", sales:5320, quarter:4}
+{category:"Dairy Products", product:"Gudbrandsdalsost", sales:5652, quarter:4}
+{category:"Dairy Products", product:"Raclette Courdavault", sales:11959.75, quarter:4}
+{category:"Grains/Cereals", product:"Filo Mix", sales:187.6, quarter:1}
+{category:"Grains/Cereals", product:"Gustaf's Knackebrod", sales:201.6, quarter:1}
+{category:"Grains/Cereals", product:"Ravioli Angelo", sales:499.2, quarter:1}
+{category:"Grains/Cereals", product:"Tunnbrod", sales:979.2, quarter:1}
+{category:"Grains/Cereals", product:"Singaporean Hokkien Fried Mee", sales:985.6, quarter:1}
+{category:"Grains/Cereals", product:"Wimmers gute Semmelknodel", sales:2912.7, quarter:1}
+{category:"Grains/Cereals", product:"Gnocchi di nonna Alice", sales:6931.2, quarter:1}
+{category:"Grains/Cereals", product:"Ravioli Angelo", sales:87.75, quarter:2}
+{category:"Grains/Cereals", product:"Gustaf's Knackebrod", sales:504, quarter:2}
+{category:"Grains/Cereals", product:"Filo Mix", sales:742, quarter:2}
+{category:"Grains/Cereals", product:"Tunnbrod", sales:778.5, quarter:2}
+{category:"Grains/Cereals", product:"Singaporean Hokkien Fried Mee", sales:912.8, quarter:2}
+{category:"Grains/Cereals", product:"Wimmers gute Semmelknodel", sales:1735.65, quarter:2}
+{category:"Grains/Cereals", product:"Gnocchi di nonna Alice", sales:9868.6, quarter:2}
+{category:"Grains/Cereals", product:"Filo Mix", sales:226.8, quarter:3}
+{category:"Grains/Cereals", product:"Tunnbrod", sales:423, quarter:3}
+{category:"Grains/Cereals", product:"Ravioli Angelo", sales:585, quarter:3}
+{category:"Grains/Cereals", product:"Wimmers gute Semmelknodel", sales:1679.12, quarter:3}
+{category:"Grains/Cereals", product:"Singaporean Hokkien Fried Mee", sales:2307.2, quarter:3}
+{category:"Grains/Cereals", product:"Gustaf's Knackebrod", sales:3318, quarter:3}
+{category:"Grains/Cereals", product:"Gnocchi di nonna Alice", sales:6771.6, quarter:3}
+{category:"Grains/Cereals", product:"Gustaf's Knackebrod", sales:210, quarter:4}
+{category:"Grains/Cereals", product:"Tunnbrod", sales:396, quarter:4}
+{category:"Grains/Cereals", product:"Wimmers gute Semmelknodel", sales:798, quarter:4}
+{category:"Grains/Cereals", product:"Filo Mix", sales:911.75, quarter:4}
+{category:"Grains/Cereals", product:"Singaporean Hokkien Fried Mee", sales:978.6, quarter:4}
+{category:"Grains/Cereals", product:"Ravioli Angelo", sales:984.75, quarter:4}
+{category:"Grains/Cereals", product:"Gnocchi di nonna Alice", sales:9032.6, quarter:4}
+{category:"Meat/Poultry", product:"Tourtiere", sales:966.42, quarter:1}
+{category:"Meat/Poultry", product:"Mishi Kobe Niku", sales:1396.8, quarter:1}
+{category:"Meat/Poultry", product:"Alice Mutton", sales:2667.6, quarter:1}
+{category:"Meat/Poultry", product:"Perth Pasties", sales:5154.85, quarter:1}
+{category:"Meat/Poultry", product:"Thuringer Rostbratwurst", sales:5702.4, quarter:1}
+{category:"Meat/Poultry", product:"Pate chinois", sales:5710.08, quarter:1}
+{category:"Meat/Poultry", product:"Tourtiere", sales:490.21, quarter:2}
+{category:"Meat/Poultry", product:"Pate chinois", sales:1316.4, quarter:2}
+{category:"Meat/Poultry", product:"Mishi Kobe Niku", sales:1319.2, quarter:2}
+{category:"Meat/Poultry", product:"Perth Pasties", sales:2099.2, quarter:2}
+{category:"Meat/Poultry", product:"Alice Mutton", sales:4013.1, quarter:2}
+{category:"Meat/Poultry", product:"Thuringer Rostbratwurst", sales:4456.44, quarter:2}
+{category:"Meat/Poultry", product:"Tourtiere", sales:666.03, quarter:3}
+{category:"Meat/Poultry", product:"Pate chinois", sales:864, quarter:3}
+{category:"Meat/Poultry", product:"Perth Pasties", sales:1500.6, quarter:3}
+{category:"Meat/Poultry", product:"Alice Mutton", sales:3900, quarter:3}
+{category:"Meat/Poultry", product:"Thuringer Rostbratwurst", sales:8912.88, quarter:3}
+{category:"Meat/Poultry", product:"Pate chinois", sales:936, quarter:4}
+{category:"Meat/Poultry", product:"Tourtiere", sales:978.93, quarter:4}
+{category:"Meat/Poultry", product:"Perth Pasties", sales:4029.48, quarter:4}
+{category:"Meat/Poultry", product:"Mishi Kobe Niku", sales:4219.5, quarter:4}
+{category:"Meat/Poultry", product:"Alice Mutton", sales:6000.15, quarter:4}
+{category:"Meat/Poultry", product:"Thuringer Rostbratwurst", sales:14037.79, quarter:4}
+{category:"Produce", product:"Longlife Tofu", sales:360, quarter:1}
+{category:"Produce", product:"Uncle Bob's Organic Dried Pears", sales:1084.8, quarter:1}
+{category:"Produce", product:"Manjimup Dried Apples", sales:1411.92, quarter:1}
+{category:"Produce", product:"Tofu", sales:2018.1, quarter:1}
+{category:"Produce", product:"Rossle Sauerkraut", sales:4105.92, quarter:1}
+{category:"Produce", product:"Longlife Tofu", sales:128, quarter:2}
+{category:"Produce", product:"Uncle Bob's Organic Dried Pears", sales:1575, quarter:2}
+{category:"Produce", product:"Tofu", sales:2185.5, quarter:2}
+{category:"Produce", product:"Rossle Sauerkraut", sales:3310.56, quarter:2}
+{category:"Produce", product:"Manjimup Dried Apples", sales:8384.6, quarter:2}
+{category:"Produce", product:"Manjimup Dried Apples", sales:1855, quarter:3}
+{category:"Produce", product:"Tofu", sales:1866.97, quarter:3}
+{category:"Produce", product:"Rossle Sauerkraut", sales:1881, quarter:3}
+{category:"Produce", product:"Uncle Bob's Organic Dried Pears", sales:2700, quarter:3}
+{category:"Produce", product:"Longlife Tofu", sales:400, quarter:4}
+{category:"Produce", product:"Tofu", sales:470.81, quarter:4}
+{category:"Produce", product:"Rossle Sauerkraut", sales:3556.8, quarter:4}
+{category:"Produce", product:"Uncle Bob's Organic Dried Pears", sales:3826.5, quarter:4}
+{category:"Produce", product:"Manjimup Dried Apples", sales:11898.5, quarter:4}
+{category:"Seafood", product:"Konbu", sales:61.44, quarter:1}
+{category:"Seafood", product:"Inlagd Sill", sales:68.4, quarter:1}
+{category:"Seafood", product:"Rogede sild", sales:205.2, quarter:1}
+{category:"Seafood", product:"Gravad lax", sales:208, quarter:1}
+{category:"Seafood", product:"Rod Kaviar", sales:216, quarter:1}
+{category:"Seafood", product:"Jack's New England Clam Chowder", sales:385, quarter:1}
+{category:"Seafood", product:"Spegesild", sales:803.52, quarter:1}
+{category:"Seafood", product:"Ikura", sales:1215.2, quarter:1}
+{category:"Seafood", product:"Nord-Ost Matjeshering", sales:1308.24, quarter:1}
+{category:"Seafood", product:"Boston Crab Meat", sales:1474.41, quarter:1}
+{category:"Seafood", product:"Carnarvon Tigers", sales:1500, quarter:1}
+{category:"Seafood", product:"Spegesild", sales:91.8, quarter:2}
+{category:"Seafood", product:"Konbu", sales:168, quarter:2}
+{category:"Seafood", product:"Escargots de Bourgogne", sales:265, quarter:2}
+{category:"Seafood", product:"Gravad lax", sales:421.2, quarter:2}
+{category:"Seafood", product:"Ikura", sales:533.2, quarter:2}
+{category:"Seafood", product:"Rod Kaviar", sales:714, quarter:2}
+{category:"Seafood", product:"Rogede sild", sales:1007, quarter:2}
+{category:"Seafood", product:"Jack's New England Clam Chowder", sales:1242.52, quarter:2}
+{category:"Seafood", product:"Nord-Ost Matjeshering", sales:1838.19, quarter:2}
+{category:"Seafood", product:"Boston Crab Meat", sales:2272, quarter:2}
+{category:"Seafood", product:"Carnarvon Tigers", sales:2362.5, quarter:2}
+{category:"Seafood", product:"Inlagd Sill", sales:2698, quarter:2}
+{category:"Seafood", product:"Rogede sild", sales:190, quarter:3}
+{category:"Seafood", product:"Jack's New England Clam Chowder", sales:468.51, quarter:3}
+{category:"Seafood", product:"Konbu", sales:469.5, quarter:3}
+{category:"Seafood", product:"Nord-Ost Matjeshering", sales:815.54, quarter:3}
+{category:"Seafood", product:"Escargots de Bourgogne", sales:1393.9, quarter:3}
+{category:"Seafood", product:"Spegesild", sales:1504.8, quarter:3}
+{category:"Seafood", product:"Rod Kaviar", sales:1646.25, quarter:3}
+{category:"Seafood", product:"Inlagd Sill", sales:2199.25, quarter:3}
+{category:"Seafood", product:"Ikura", sales:3747.9, quarter:3}
+{category:"Seafood", product:"Boston Crab Meat", sales:3887.92, quarter:3}
+{category:"Seafood", product:"Carnarvon Tigers", sales:7100, quarter:3}
+{category:"Seafood", product:"Konbu", sales:60, quarter:4}
+{category:"Seafood", product:"Escargots de Bourgogne", sales:417.38, quarter:4}
+{category:"Seafood", product:"Spegesild", sales:823.2, quarter:4}
+{category:"Seafood", product:"Rod Kaviar", sales:941.25, quarter:4}
+{category:"Seafood", product:"Nord-Ost Matjeshering", sales:1922.33, quarter:4}
+{category:"Seafood", product:"Inlagd Sill", sales:1928.5, quarter:4}
+{category:"Seafood", product:"Rogede sild", sales:1953.67, quarter:4}
+{category:"Seafood", product:"Boston Crab Meat", sales:2162, quarter:4}
+{category:"Seafood", product:"Jack's New England Clam Chowder", sales:2542.77, quarter:4}
+{category:"Seafood", product:"Ikura", sales:3323.2, quarter:4}
+{category:"Seafood", product:"Carnarvon Tigers", sales:4987.5, quarter:4}

@@ -1,0 +1,30 @@
+ {
+	 "id":1,"firstName":"Rajesh","lastName":"Sharma","gender":"male",
+	 "orders": [
+	          {"product":"iPhone 6","price":56000.00,"quantity":1},
+	          {"product":"Reynolds Pen","price":45.66,"quantity":3}
+	          ]
+ }
+ {
+	 "id":2,"firstName":"Suresh","lastName":"Sharma","gender":"male",
+	 "orders": [
+	          {"product":"Moto G","price":12990.00,"quantity":1}
+	          ]
+ }
+ {
+	 "id":3,"firstName":"Anitha","lastName":"Kumar","gender":"female",
+	 "orders": [
+	          {"product":"iPhone 6","price":56000.00,"quantity":1},
+	          {"product":"Reynolds Pen","price":45.66,"quantity":3}
+	          ]
+ }
+ {
+	 "id":4,"firstName":"Karthik","lastName":"Kumar","gender":"male",
+	 "orders": [
+	          {"product":"Samsung WM","price":35000.00,"quantity":1},
+	          {"product":"LG Micro Oven","price":22000.00,"quantity":1}
+	          ]
+ }
+ {
+	 "id":5,"firstName":"Sunita","lastName":"Gowda","gender":"female" 
+ }
